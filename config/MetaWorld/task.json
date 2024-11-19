@@ -1,0 +1,24 @@
+{
+    "cw10_task_list": [
+        "hammer-v2", "push-wall-v2", "faucet-close-v2", "push-back-v2", "stick-pull-v2",
+        "handle-press-side-v2", "push-v2", "shelf-place-v2", "window-close-v2", "peg-unplug-side-v2"
+    ],
+    "cw10_task_list_seed1": [
+        "push-v2", "window-close-v2", "peg-unplug-side-v2", "shelf-place-v2", "handle-press-side-v2", 
+        "push-back-v2", "hammer-v2", "stick-pull-v2", "push-wall-v2", "faucet-close-v2"
+    ],
+    "cw10_task_list_seed2": [
+        "handle-press-side-v2", "peg-unplug-side-v2", "push-back-v2", "stick-pull-v2", "push-v2",
+        "shelf-place-v2", "faucet-close-v2", "window-close-v2", "push-wall-v2", "hammer-v2"
+    ],
+    "cw10_task_list_seed3": [
+        "push-wall-v2", "handle-press-side-v2", "push-v2", "hammer-v2", "peg-unplug-side-v2", 
+        "stick-pull-v2", "shelf-place-v2", "faucet-close-v2", "window-close-v2", "push-back-v2"
+    ],
+    "cw20_task_list": [
+        "hammer-v2", "push-wall-v2", "faucet-close-v2", "push-back-v2", "stick-pull-v2",
+        "handle-press-side-v2", "push-v2", "shelf-place-v2", "window-close-v2", "peg-unplug-side-v2",
+        "hammer-v2_2", "push-wall-v2_2", "faucet-close-v2_2", "push-back-v2_2", "stick-pull-v2_2",
+        "handle-press-side-v2_2", "push-v2_2", "shelf-place-v2_2", "window-close-v2_2", "peg-unplug-side-v2_2"
+    ]
+}
