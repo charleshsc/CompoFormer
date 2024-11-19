@@ -8,8 +8,8 @@ Continual Task Learning through Adaptive Policy Self-Composition
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
 
-<h4> |<a href="https://arxiv.org/abs/2405.18080"> 📑 Paper </a> |
-<a href="https://github.com/charleshsc/CompoFormerT"> 🐱 Github Repo </a> |
+<h4> |<a href="https://arxiv.org/abs/2411.11364"> 📑 Paper </a> |
+<a href="https://github.com/charleshsc/CompoFormer"> 🐱 Github Repo </a> |
 </h4>
 
 <!-- **Authors:** -->
